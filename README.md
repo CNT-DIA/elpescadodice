@@ -1,4 +1,4 @@
-# El Pescado Dice
+# El pescado dice...
 
 Un archivo de las perlas de sabiduría que ha ido soltando el pescado.
 
