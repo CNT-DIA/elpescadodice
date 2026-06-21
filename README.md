@@ -4,10 +4,6 @@ Un archivo de las perlas de sabiduría que ha ido soltando el pescado.
 
 ---
 
-## Galería Cronológica
-
-<!-- Images are displayed chronologically below -->
-
 ### 2026
 
 #### Junio
