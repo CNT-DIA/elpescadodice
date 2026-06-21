@@ -11,7 +11,8 @@ Un archivo de las perlas de sabiduría que ha ido soltando el pescado.
 ### 2026
 
 #### Junio
-- ![Semana 1]([images/2026/06/sabiduria del pescao, sem1.png](https://github.com/CNT-DIA/elpescadodice/blob/main/archivo/sabiduria%20del%20pescao%2C%20sem1.png))
+Semana 1:
+<img width="2548" height="2457" alt="Image" src="https://github.com/user-attachments/assets/bcefbf1b-4ac5-406f-956e-568e71b447f3" />
 
 ---
 
